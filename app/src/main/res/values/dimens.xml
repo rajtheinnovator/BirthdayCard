@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="CardFontSize">50sp</dimen>
+    <dimen name="TopTextRPad">60dp</dimen>
+    <dimen name="TopTextLPad">80dp</dimen>
+    <dimen name="TopTextTPad">200dp</dimen>
+    <dimen name="BTextLPad">200dp</dimen>
+    <dimen name="BTextBPad">80dp</dimen>
+    <dimen name="BTextRPad">70dp</dimen>
+
+</resources>
+

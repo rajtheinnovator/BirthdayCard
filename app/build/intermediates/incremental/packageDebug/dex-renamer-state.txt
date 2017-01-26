@@ -1,0 +1,7 @@
+#Thu Jan 26 20:14:47 IST 2017
+base.0=H\:\\AndroidStudioProjects\\DOWNLOADED__BirthdayCard__26JAN\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b74bbde3774070b44406d3ae4a7f4416dab2dd88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\AndroidStudioProjects\\DOWNLOADED__BirthdayCard__26JAN\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b702fab8eb9b2877a0c027d39e87fb961dd5c69f\\classes.dex
+base.1=H\:\\AndroidStudioProjects\\DOWNLOADED__BirthdayCard__26JAN\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b702fab8eb9b2877a0c027d39e87fb961dd5c69f
+file.0=H\:\\AndroidStudioProjects\\DOWNLOADED__BirthdayCard__26JAN\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b74bbde3774070b44406d3ae4a7f4416dab2dd88\\classes.dex

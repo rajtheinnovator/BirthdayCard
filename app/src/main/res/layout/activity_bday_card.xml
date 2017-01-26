@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ParentLayout"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_bday_card"
+        style="@style/ParentLayout"
+        tools:context="com.example.android.birthdaycard.BdayCard">
+
+        <ImageView style="@style/Picture" />
+
+        <TextView
+            style="@style/BottomText"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/love_muir" />
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/TopText"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/happy_birthday_joya" />
+
+    </RelativeLayout>
+
+</ScrollView>
+
